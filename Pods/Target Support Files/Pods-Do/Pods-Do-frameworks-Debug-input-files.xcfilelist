@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-Do/Pods-Do-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/BetterSegmentedControl/BetterSegmentedControl.framework
+${BUILT_PRODUCTS_DIR}/ImageViewer/ImageViewer.framework
+${BUILT_PRODUCTS_DIR}/LFTwitterProfile/LFTwitterProfile.framework
+${BUILT_PRODUCTS_DIR}/RAGTextField/RAGTextField.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
+${BUILT_PRODUCTS_DIR}/TRMosaicLayout/TRMosaicLayout.framework

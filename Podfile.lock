@@ -1,0 +1,63 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - BetterSegmentedControl (2.0.1)
+  - ImageViewer (0.1.4)
+  - LFTwitterProfile (0.1.1):
+    - SnapKit (~> 3.0)
+  - RAGTextField (0.14.0)
+  - SnapKit (3.2.0)
+  - TRMosaicLayout (1.0.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - BetterSegmentedControl (~> 2.0)
+  - ImageViewer (from `https://github.com/tovkal/ImageViewer`)
+  - LFTwitterProfile
+  - RAGTextField
+  - SnapKit
+  - TRMosaicLayout
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - BetterSegmentedControl
+    - LFTwitterProfile
+    - RAGTextField
+    - SnapKit
+    - TRMosaicLayout
+
+EXTERNAL SOURCES:
+  ImageViewer:
+    :git: https://github.com/tovkal/ImageViewer
+
+CHECKOUT OPTIONS:
+  ImageViewer:
+    :commit: 76944a7b1192d1a0af6767f33804a69bd2d9e743
+    :git: https://github.com/tovkal/ImageViewer
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  BetterSegmentedControl: 09607b27861d49cbce48b7673b74f9150a3d371a
+  ImageViewer: 0c79f53859883f4215b0ceeac4c7e4d3caede8a3
+  LFTwitterProfile: 57cc1c1602e3b4cf297b3d80b85dff16b5257ad4
+  RAGTextField: ebeab17ae88ce880a85601af33edc2879fa53813
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  TRMosaicLayout: 1875505c48dd2877afd69a8bea7b4c1c63afa5b5
+
+PODFILE CHECKSUM: 9e26e034091240e863a867fe9a500f27d4dd2a5c
+
+COCOAPODS: 1.10.0
